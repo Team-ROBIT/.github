@@ -4,7 +4,8 @@
 
 # About Us !
 
-## RO:BIT, the first robot sports game team in Korea, founded in 2006, is a student self-governing body of Kwangwoon University.
+## RO:BIT 
+The first robot sports game team in Korea, founded in 2006, is a student self-governing body of Kwangwoon University.
 
 RO:BIT develops robots in various sports fields such as robot soccer and track and field, and develops robots in various fields such as intelligent robots, disaster rescue robots, and entertainment robots.
 
