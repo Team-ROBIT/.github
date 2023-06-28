@@ -13,6 +13,11 @@
 
 ## RO:BIT Intelligence Robot Team 
 ### Our Team builds Autonomous robots.
+### - Defense Robot && Robocup Rescue Robot
+<div align="center">
+  ![defense_robot](https://github.com/RO-BIT-Intelligence-Robot-Team/.github/assets/66550892/bdbee599-d2a2-4167-9f6a-ddf94794f1d0)
+</div>
+
 
 
 
