@@ -58,3 +58,5 @@
 ### - 17th 이승훈 Sophomore <a href="https://github.com/Leeseunghun03"><img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=github&logoColor=white"/></a>
 
 ### - 17th 이명진 Sophomore <a href="https://github.com/mjlee111"><img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=github&logoColor=white"/></a>
+
+<br>
