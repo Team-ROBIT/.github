@@ -12,6 +12,8 @@
 
 ### Also, we are trying to make many people and students interested in robots through robot-based events.
 
+<br>
+
 ## RO:BIT Intelligence Robot Team
 
 ### Our Team builds Autonomous robots.
@@ -19,7 +21,33 @@
 <details>
   <summary> - Defense Robot && Robocup Rescue Robot </summary>
     <div align="center">
-      <img src="(https://github.com/RO-BIT-Intelligence-Robot-Team/.github/assets/66550892/73a6bd2c-d490-4824-8f66-b89743d4851c" alt="d1" />
-      <img src="https://github.com/RO-BIT-Intelligence-Robot-Team/.github/assets/66550892/3a9c9e40-c844-4cdd-a12e-4fd90315d642" alt="d2" />
     </div>
 </details>
+<details>
+  <summary> - Sumo Robot </summary>
+    <div align="center">
+    </div>
+</details>
+<details>
+  <summary> - Turtlebot </summary>
+    <div align="center">
+    </div>
+</details>
+
+<br>
+
+## Team Members
+
+### - 16th 백인엽 (Leader) <a href="https://github.com/INYUP-BAEK"><img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=github&logoColor=white"/>
+
+### - 16th 고우빈
+
+### - 16th 백종욱
+
+### - 17th 이민석 <a href="https://github.com/minseokle"><img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=github&logoColor=white"/>
+
+### - 17th 이지행
+
+### - 17th 이승훈 <a href="https://github.com/Leeseunghun03"><img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=github&logoColor=white"/>
+
+### - 17th 이명진 <a href="https://github.com/mjlee111"><img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=github&logoColor=white"/>
