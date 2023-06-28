@@ -16,13 +16,14 @@
 
 <br>
 <div align="center">
-<a href="https://robit.tistory.com/"><img src="https://img.shields.io/badge/Archive-orange?style=flat&logo=tistory&logoColor=white"/></a> <a href="https://www.youtube.com/@ROBIT_KOREA"><img src="https://img.shields.io/badge/Youtube-red?style=flat&logo=youtube&logoColor=white"/></a>
+<a href="https://robit.tistory.com/"><img src="https://img.shields.io/badge/Archive-orange?style=flat&logo=tistory&logoColor=white"/></a> <a href="https://www.youtube.com/@ROBIT_KOREA"><img src="https://img.shields.io/badge/Youtube-red?style=flat&logo=youtube&logoColor=white"/></a> <a href="https://www.instagram.com/robit_korea_official/"><img src="https://img.shields.io/badge/Youtube-purple?style=flat&logo=instagram&logoColor=white"/></a>
+
 </div>
 <br>
 
 ## <span style="color: maroon;">RO:BIT Intelligence Robot Team</span>
 
-### Our Team builds Autonomous robots.
+### Team Robots
 
 <details>
   <summary> - Defense Robot && Robocup Rescue Robot </summary>
@@ -42,18 +43,18 @@
 
 <br>
 
-## Team Members
+## <span style="color: maroon;">Team Members</span>
 
-### - 16th 백인엽 (Leader) <a href="https://github.com/INYUP-BAEK"><img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=github&logoColor=white"/></a>
+### - 16th 백인엽 (Leader) Junior <a href="https://github.com/INYUP-BAEK"><img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=github&logoColor=white"/></a>
 
-### - 16th 고우빈
+### - 16th 고우빈 Junior
 
-### - 16th 백종욱
+### - 16th 백종욱 Junior
 
-### - 17th 이민석 <a href="https://github.com/minseokle"><img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=github&logoColor=white"/></a>
+### - 17th 이민석 Sophomore <a href="https://github.com/minseokle"><img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=github&logoColor=white"/></a>
 
-### - 17th 이지행
+### - 17th 이지행 Sophomore
 
-### - 17th 이승훈 <a href="https://github.com/Leeseunghun03"><img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=github&logoColor=white"/></a>
+### - 17th 이승훈 Sophomore <a href="https://github.com/Leeseunghun03"><img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=github&logoColor=white"/></a>
 
-### - 17th 이명진 <a href="https://github.com/mjlee111"><img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=github&logoColor=white"/></a>
+### - 17th 이명진 Sophomore <a href="https://github.com/mjlee111"><img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=github&logoColor=white"/></a>
