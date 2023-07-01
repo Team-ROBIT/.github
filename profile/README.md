@@ -60,3 +60,7 @@
 ### - 17th 이명진 Sophomore <a href="https://github.com/mjlee111"><img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=github&logoColor=white"/></a>
 
 <br>
+
+## <span style="color: maroon;">How to contact us !</span>
+
+### RO:BIT Intelligence Team GitHub admin - menggu1234@naver.com
