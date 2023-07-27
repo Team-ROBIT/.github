@@ -16,7 +16,7 @@
 
 <br>
 <div align="center">
-<a href="https://robit.tistory.com/"><img src="https://img.shields.io/badge/Archive-orange?style=flat&logo=tistory&logoColor=white"/></a> <a href="https://www.youtube.com/@ROBIT_KOREA"><img src="https://img.shields.io/badge/Youtube-red?style=flat&logo=youtube&logoColor=white"/></a> <a href="https://www.instagram.com/robit_korea_official/"><img src="https://img.shields.io/badge/Youtube-purple?style=flat&logo=instagram&logoColor=white"/></a>
+<a href="https://robit.tistory.com/"><img src="https://img.shields.io/badge/Archive-orange?style=flat&logo=tistory&logoColor=white"/></a> <a href="https://www.youtube.com/@ROBIT_KOREA"><img src="https://img.shields.io/badge/Youtube-red?style=flat&logo=youtube&logoColor=white"/></a> <a href="https://www.instagram.com/robit_korea_official/"><img src="https://img.shields.io/badge/Instagram-purple?style=flat&logo=instagram&logoColor=white"/></a>
 
 </div>
 <br>
