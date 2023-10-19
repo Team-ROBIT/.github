@@ -2,9 +2,8 @@
   <img src="https://github.com/RO-BIT-Intelligence-Robot-Team/.github/assets/66550892/72231510-433c-4d79-bad0-5860bae5eadc" alt="ONLY_ROBIT" />
 </div>
 
-# <span style="color: maroon;">About Us !</span>
-
-## <span style="color: maroon;">RO:BIT</span>
+# About us!
+## Robot Sports Game Team RO:BIT
 
 <img src="https://github.com/RO-BIT-Intelligence-Robot-Team/.github/assets/66550892/b59dc275-0110-471d-8103-d11daec718af" alt="robit" width="300" height="300">
 
@@ -26,17 +25,17 @@
 ### Team Robots
 
 <details>
-  <summary> - Defense Robot && Robocup Rescue Robot </summary>
+  <summary> Defense Robot && Robocup Rescue Robot </summary>
     <div align="center">
     </div>
 </details>
 <details>
-  <summary> - Sumo Robot </summary>
+  <summary> Sumo Robot </summary>
     <div align="center">
     </div>
 </details>
 <details>
-  <summary> - Turtlebot </summary>
+  <summary> Turtlebot </summary>
     <div align="center">
     </div>
 </details>
@@ -49,7 +48,7 @@
 
 ### - 16th 고우빈 Junior
 
-### - 16th 백종욱 Junior
+### - 16th 백종욱 Junior <a href="https://github.com/baekjongwook"><img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=github&logoColor=white"/></a>
 
 ### - 17th 이민석 Sophomore <a href="https://github.com/minseokle"><img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=github&logoColor=white"/></a>
 
