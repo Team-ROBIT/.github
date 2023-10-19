@@ -7,11 +7,11 @@
 
 <img src="https://github.com/RO-BIT-Intelligence-Robot-Team/.github/assets/66550892/b59dc275-0110-471d-8103-d11daec718af" alt="robit" width="300" height="300">
 
-### The first robot sports game team in Korea, founded in 2006, is a student self-governing body of Kwangwoon University.
+The first robot sports game team in Korea, founded in 2006, is a student self-governing body of Kwangwoon University.
 
-### RO:BIT develops robots in various sports fields such as robot soccer and track and field, and develops robots in various fields such as intelligent robots, disaster rescue robots, and entertainment robots.
+RO:BIT develops robots in various sports fields such as robot soccer and track and field, and develops robots in various fields such as intelligent robots, disaster rescue robots, and entertainment robots.
 
-### Also, we are trying to make many people and students interested in robots through robot-based events.
+Also, we are trying to make many people and students interested in robots through robot-based events.
 
 <br>
 <div align="center">
@@ -44,22 +44,22 @@
 
 ## <span style="color: maroon;">Team Members</span>
 
-### - 16th 백인엽 (Leader) Junior <a href="https://github.com/INYUP-BAEK"><img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=github&logoColor=white"/></a>
+- 16th 백인엽 (Leader) Junior <a href="https://github.com/INYUP-BAEK"><img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=github&logoColor=white"/></a>
 
-### - 16th 고우빈 Junior
+- 16th 고우빈 Junior
 
-### - 16th 백종욱 Junior <a href="https://github.com/baekjongwook"><img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=github&logoColor=white"/></a>
+- 16th 백종욱 Junior <a href="https://github.com/baekjongwook"><img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=github&logoColor=white"/></a>
 
-### - 17th 이민석 Sophomore <a href="https://github.com/minseokle"><img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=github&logoColor=white"/></a>
+- 17th 이민석 Sophomore <a href="https://github.com/minseokle"><img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=github&logoColor=white"/></a>
 
-### - 17th 이지행 Sophomore
+- 17th 이지행 Sophomore
 
-### - 17th 이승훈 Sophomore <a href="https://github.com/Leeseunghun03"><img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=github&logoColor=white"/></a>
+- 17th 이승훈 Sophomore <a href="https://github.com/Leeseunghun03"><img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=github&logoColor=white"/></a>
 
-### - 17th 이명진 Sophomore <a href="https://github.com/mjlee111"><img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=github&logoColor=white"/></a>
+- 17th 이명진 Sophomore <a href="https://github.com/mjlee111"><img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=github&logoColor=white"/></a>
 
 <br>
 
 ## <span style="color: maroon;">How to contact us !</span>
 
-### RO:BIT Intelligence Team GitHub admin - menggu1234@naver.com
+RO:BIT Intelligence Team GitHub admin - menggu1234@naver.com
