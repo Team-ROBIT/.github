@@ -43,20 +43,29 @@ Also, we are trying to make many people and students interested in robots throug
 <br>
 
 ## <span style="color: maroon;">Team Members</span>
+#### Currently Active Member
+- 17th Seung Hun Lee <2024 Team Leader> - software engineer, hardware design Junior <a href="https://github.com/Leeseunghun03"><img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=github&logoColor=white"/></a>
 
-- 16th 백인엽 (Leader) Junior <a href="https://github.com/INYUP-BAEK"><img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=github&logoColor=white"/></a>
+- 17th Min Seok Lee Junior - software engineer, circuit design <a href="https://github.com/minseokle"><img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=github&logoColor=white"/></a>
 
-- 16th 고우빈 Junior
+- 17th Ji Heng Lee Junior - hardware design
 
-- 16th 백종욱 Junior <a href="https://github.com/baekjongwook"><img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=github&logoColor=white"/></a>
+- 17th Myeong Jin Lee Junior - software engineer <a href="https://github.com/mjlee111"><img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=github&logoColor=white"/></a>
 
-- 17th 이민석 Sophomore <a href="https://github.com/minseokle"><img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=github&logoColor=white"/></a>
+- 18th Jung Uk Byeon Sophomore - circuit design
 
-- 17th 이지행 Sophomore
+- 18th Jae Woong So Sophomore - hardware design
 
-- 17th 이승훈 Sophomore <a href="https://github.com/Leeseunghun03"><img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=github&logoColor=white"/></a>
+- 18th Sun Kyung Lee - software engineer
 
-- 17th 이명진 Sophomore <a href="https://github.com/mjlee111"><img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=github&logoColor=white"/></a>
+- 18th Ji Hyun Hong - software engineer
+
+
+- 16th In Yeop Beak <2023 Team Leader> Junior <a href="https://github.com/INYUP-BAEK"><img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=github&logoColor=white"/></a>
+
+- 16th Woo Bin Koh Junior
+
+- 16th Jong Uk Beak Junior <a href="https://github.com/baekjongwook"><img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=github&logoColor=white"/></a>
 
 <br>
 
