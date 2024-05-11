@@ -58,7 +58,8 @@ Also, we are trying to make many people and students interested in robots throug
 
 - 18th Sun Kyung Lee - software engineer
 
-- 18th Ji Hyun Hong - software engineer
+- 18th Ji Hyeon Hong - software engineer <a href="https://github.com/mkdir-sweetiepie"><img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=github&logoColor=white"/></a>
+
 
 
 - 16th In Yeop Beak <2023 Team Leader> Junior <a href="https://github.com/INYUP-BAEK"><img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=github&logoColor=white"/></a>
