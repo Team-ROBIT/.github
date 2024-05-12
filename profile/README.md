@@ -52,7 +52,8 @@ Also, we are trying to make many people and students interested in robots throug
 
 - 17th Myeong Jin Lee Junior - software engineer <a href="https://github.com/mjlee111"><img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=github&logoColor=white"/></a>
 
-- 18th Jung Uk Byeon Sophomore - circuit design
+- 18th Jung Uk Byeon Sophomore - circuit design <a href="https://github.com/Jeong042"><img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=github&logoColor=white"/></a>
+
 
 - 18th Jae Woong So Sophomore - hardware design
 
