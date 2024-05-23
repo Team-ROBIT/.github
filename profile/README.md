@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="../images/robit_logo_kw.png" alt="ONLY_ROBIT" />
+  <img src="https://raw.githubusercontent.com/Team-ROBIT/.github/master/images/robit_logo_kw.png" alt="ONLY_ROBIT" />
 </div>
 
 # About us!
 ## Robot Sports Game Team RO:BIT
 
 <div align="center">
-<img src="../images/kw_unv.png" alt="robit" width="100" height="100">
-<img src="../images/korea.jpg" alt="korea" width="150" height="100">
+<img src="https://raw.githubusercontent.com/Team-ROBIT/.github/master/images/kw_unv.png" alt="robit" width="100" height="100">
+<img src="https://raw.githubusercontent.com/Team-ROBIT/.github/master/images/korea.jpg" alt="korea" width="150" height="100">
 </div>
 
 The first robot sports game team in Korea, founded in 2006, is a student self-governing body of Kwangwoon University.
@@ -29,18 +29,18 @@ Also, we are trying to make many people and students interested in robots throug
 <details>
   <summary> Defense Robot && Robocup Rescue Robot </summary>
   <div align="center">
-    <img src="../images/kuls.jpg" alt="KULS" width="400" height="500">
+    <img src="https://raw.githubusercontent.com/Team-ROBIT/.github/master/images/kuls.jpg" alt="KULS" width="400" height="500">
 
     KULS (Kwangwoon University Life Saver) - 2024
   </div>
 
   <div align="center">
-    <img src="../images/kubo.jpg" alt="KUBO" width="400" height="500">
+    <img src="https://raw.githubusercontent.com/Team-ROBIT/.github/master/images/kubo.jpg" alt="KUBO" width="400" height="500">
 
     KUBO (Kwangwoon University roBOt) - 2022 ~ 2023
   </div>
   <div align="center">
-    <img src="../images/canada.gif" alt="can" width="400" height="300">
+    <img src="https://raw.githubusercontent.com/Team-ROBIT/.github/master/images/canada.gif" alt="can" width="400" height="300">
 
     SJBot - 2021
   </div>
@@ -48,7 +48,7 @@ Also, we are trying to make many people and students interested in robots throug
 <details>
   <summary> Sumo Robot </summary>
     <div align="center">
-      <img src="../images/sumo.gif" alt="SUMO" width="400" height="300">
+      <img src="https://raw.githubusercontent.com/Team-ROBIT/.github/master/images/sumo.gif" alt="SUMO" width="400" height="300">
 
       SUMO Robot
 
