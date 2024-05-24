@@ -24,6 +24,24 @@ Also, we are trying to make many people and students interested in robots throug
 <br>
 
 ## RO:BIT Intelligence Robot Team
+### Research area
+#### SLAM & Navigation
+<div align="center">
+<img src="https://raw.githubusercontent.com/Team-ROBIT/.github/master/images/t1.gif" alt="KULS" width="300" height="300">
+<img src="https://raw.githubusercontent.com/Team-ROBIT/.github/master/images/t2.gif" alt="KULS" width="300" height="300">
+</div>
+
+#### Computer vision
+<div align="center">
+<img src="https://raw.githubusercontent.com/Team-ROBIT/.github/master/images/vision.png" alt="KULS" width="300" height="300">
+<img src="https://raw.githubusercontent.com/Team-ROBIT/.github/master/images/rgbd.png" alt="KULS" height="300">
+</div>
+
+#### Autonomous driving
+<div align="center">
+<img src="https://raw.githubusercontent.com/Team-ROBIT/.github/master/images/t3.gif" alt="KULS" height="250">
+</div>
+
 ### Team Robots
 
 <details>
