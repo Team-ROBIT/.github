@@ -6,7 +6,7 @@
 ## Robot Sports Game Team RO:BIT
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Team-ROBIT/.github/master/images/kw_unv.png" alt="robit" width="100" height="100">
+
 <img src="https://raw.githubusercontent.com/Team-ROBIT/.github/master/images/korea.jpg" alt="korea" width="150" height="100">
 </div>
 
@@ -106,6 +106,11 @@ Also, we are trying to make many people and students interested in robots throug
 
 <br>
 
-## <span style="color: maroon;">How to contact us !</span>
+## Other information
+<img src="https://raw.githubusercontent.com/Team-ROBIT/.github/master/images/kw_unv.png" alt="robit" width="100" height="100">
 
-RO:BIT Intelligence Team GitHub admin - menggu1234@naver.com
+Kwangwoon University
+
+Location - 23, Seokgye-ro 18-gil, Nowon-gu, Seoul, Republic of Korea
+
+RO:BIT Intelligence Robot Team GitHub admin - menggu1234@naver.com
