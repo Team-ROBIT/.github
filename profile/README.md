@@ -19,6 +19,8 @@ Also, we are trying to make many people and students interested in robots throug
 <br>
 <div align="center">
 <a href="https://robit.tistory.com/"><img src="https://img.shields.io/badge/Archive-orange?style=flat&logo=tistory&logoColor=white"/></a> <a href="https://www.youtube.com/@ROBIT_KOREA"><img src="https://img.shields.io/badge/Youtube-red?style=flat&logo=youtube&logoColor=white"/></a> <a href="https://www.instagram.com/robit_korea_official/"><img src="https://img.shields.io/badge/Instagram-purple?style=flat&logo=instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/robit_korea_official(https://github.com/ROBIT-KOR-teamHumanoid
+)/"><img src="https://img.shields.io/badge/Humanoid Team-blue?style=flat&logo=RuboCop&logoColor=white"/></a>
 
 </div>
 <br>
