@@ -83,11 +83,9 @@ Also, we are trying to make many people and students interested in robots throug
 
 ## Team Members
 #### Currently Active Member
+- 18th Jae Woong So <2025 Team Leader> - hardware design
 
 - 18th Jung Uk Byeon - circuit design <a href="https://github.com/Jeong042"><img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=github&logoColor=white"/></a>
-
-
-- 18th Jae Woong So <2025 Team Leader> - hardware design
 
 - 18th Sun Kyung Lee - software engineer <a href="https://github.com/lee-sunkyoung"><img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=github&logoColor=white"/></a>
 
