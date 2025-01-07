@@ -95,7 +95,7 @@ Also, we are trying to make many people and students interested in robots throug
 
 - 19th Beom Su Choi - software engineer <a href="https://github.com/beomsuchoi"><img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=github&logoColor=white"/></a>
 
-- 19th Gi Hong Park- circuit design <a href="https://github.com/kinesis19"><img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=github&logoColor=white"/></a>
+- 19th Ki Hong Park- circuit design <a href="https://github.com/kinesis19"><img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=github&logoColor=white"/></a>
   
 #### Previous Member
 - 16th In Yeop Beak <2023 Team Leader> - software engineer <a href="https://github.com/INYUP-BAEK"><img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=github&logoColor=white"/></a>
