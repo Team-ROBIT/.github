@@ -89,8 +89,6 @@ Also, we are trying to make many people and students interested in robots throug
 
 - 18th Sun Kyoung Lee - software engineer <a href="https://github.com/lee-sunkyoung"><img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=github&logoColor=white"/></a>
 
-- 18th Ji Hyeon Hong - software engineer <a href="https://github.com/mkdir-sweetiepie"><img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=github&logoColor=white"/></a>
-
 - 19th Jae Min Ha - software engineer <a href="https://github.com/jammay123"><img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=github&logoColor=white"/></a>
 
 - 19th Beom Su Choi - software engineer <a href="https://github.com/beomsuchoi"><img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=github&logoColor=white"/></a>
@@ -109,6 +107,8 @@ Also, we are trying to make many people and students interested in robots throug
 - 17th Ji Heng Lee - hardware design
 
 - 17th Myeong Jin Lee - software engineer <a href="https://github.com/mjlee111"><img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=github&logoColor=white"/></a>
+
+- 18th Ji Hyeon Hong - software engineer <a href="https://github.com/mkdir-sweetiepie"><img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=github&logoColor=white"/></a>
 
 <br>
 
