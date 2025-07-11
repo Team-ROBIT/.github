@@ -18,8 +18,12 @@ Also, we are trying to make many people and students interested in robots throug
 
 <br>
 <div align="center">
-<a href="https://robit.tistory.com/"><img src="https://img.shields.io/badge/Archive-orange?style=flat&logo=tistory&logoColor=white"/></a> <a href="https://www.youtube.com/@ROBIT_KOREA"><img src="https://img.shields.io/badge/Youtube-red?style=flat&logo=youtube&logoColor=white"/></a> <a href="https://www.instagram.com/robit_korea_official/"><img src="https://img.shields.io/badge/Instagram-purple?style=flat&logo=instagram&logoColor=white"/></a>
+<a href="https://kwrobit.com//"><img src="https://img.shields.io/badge/Website-brown?style=flat&logo=homepage&logoColor=white"/></a>
+<a href="https://robit.tistory.com/"><img src="https://img.shields.io/badge/Archive-orange?style=flat&logo=tistory&logoColor=white"/></a> 
+<a href="https://www.youtube.com/@ROBIT_KOREA"><img src="https://img.shields.io/badge/Youtube-red?style=flat&logo=youtube&logoColor=white"/></a>
+<a href="https://www.instagram.com/robit_korea_official/"><img src="https://img.shields.io/badge/Instagram-purple?style=flat&logo=instagram&logoColor=white"/></a>
 <a href="https://github.com/ROBIT-KOR-teamHumanoid/"><img src="https://img.shields.io/badge/Humanoid Team-blue?style=flat&logo=RuboCop&logoColor=white"/></a>
+
 
 </div>
 <br>
@@ -117,6 +121,6 @@ Also, we are trying to make many people and students interested in robots throug
 
 Kwangwoon University
 
-Location - 23, Seokgye-ro 18-gil, Nowon-gu, Seoul, Republic of Korea
+Location - Room 201, Saebitgwan, Kwangwoon University, 20, Gwangun-ro, Nowon-gu, Seoul, 01897, Republic of Korea
 
 RO:BIT Intelligence Robot Team GitHub admin - menggu1234@naver.com
