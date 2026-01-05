@@ -87,17 +87,18 @@ Also, we are trying to make many people and students interested in robots throug
 
 ## Team Members
 #### Currently Active Member
-- 18th Jae Woong So <2025 Team Leader> - hardware design <a href="https://github.com/jaewwong"><img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=github&logoColor=white"/></a>
 
-- 18th Jung Uk Byeon - circuit design <a href="https://github.com/Jeong042"><img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=github&logoColor=white"/></a>
-
-- 18th Sun Kyoung Lee - software engineer <a href="https://github.com/lee-sunkyoung"><img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=github&logoColor=white"/></a>
+- 19th Beom Su Choi <2026 Team Leader> - software engineer <a href="https://github.com/beomsuchoi"><img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=github&logoColor=white"/></a>
 
 - 19th Jae Min Ha - software engineer <a href="https://github.com/jammay123"><img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=github&logoColor=white"/></a>
 
-- 19th Beom Su Choi - software engineer <a href="https://github.com/beomsuchoi"><img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=github&logoColor=white"/></a>
-
 - 19th Ki Hong Park- circuit design <a href="https://github.com/kinesis19"><img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=github&logoColor=white"/></a>
+
+- 20th Min Jo Kim- software engineer <a href="https://github.com/kmj060703"><img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=github&logoColor=white"/></a>
+
+- 20th Soo Min Song- software engineer <a href="https://github.com/mikissm"><img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=github&logoColor=white"/></a>
+
+- 20th Jeong Yoon Woo- circuit design <a href="https://github.com/JeongyoonWoo7"><img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=github&logoColor=white"/></a>
   
 #### Previous Member
 - 16th In Yeop Beak <2023 Team Leader> - software engineer <a href="https://github.com/INYUP-BAEK"><img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=github&logoColor=white"/></a>
@@ -111,6 +112,12 @@ Also, we are trying to make many people and students interested in robots throug
 - 17th Ji Heng Lee - hardware design
 
 - 17th Myeong Jin Lee - software engineer <a href="https://github.com/mjlee111"><img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=github&logoColor=white"/></a>
+
+- 18th Jae Woong So <2025 Team Leader> - hardware design <a href="https://github.com/jaewwong"><img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=github&logoColor=white"/></a>
+
+- 18th Jung Uk Byeon - circuit design <a href="https://github.com/Jeong042"><img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=github&logoColor=white"/></a>
+
+- 18th Sun Kyoung Lee - software engineer <a href="https://github.com/lee-sunkyoung"><img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=github&logoColor=white"/></a>
 
 - 18th Ji Hyeon Hong - software engineer <a href="https://github.com/mkdir-sweetiepie"><img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=github&logoColor=white"/></a>
 
