@@ -130,4 +130,4 @@ Kwangwoon University
 
 Location - Room 201, Saebitgwan, Kwangwoon University, 20, Gwangun-ro, Nowon-gu, Seoul, 01897, Republic of Korea
 
-RO:BIT Intelligence Robot Team GitHub admin - menggu1234@naver.com
+RO:BIT Intelligence Robot Team GitHub admin - robitintelligence@gmail.com
