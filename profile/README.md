@@ -28,20 +28,20 @@
 
 <table>
   <tr>
-    <td align="center" width="33%">
+    <td align="center" valign="top" width="33%">
       <img src="https://raw.githubusercontent.com/Team-ROBIT/.github/main/images/2026_rescue.png" alt="RoboCup Rescue 2026" height="320" /><br/>
       <h4>RoboCup Rescue 2026</h4>
-      <sub>Eclipse · ✅ Qualification passed</sub>
+      <sub>Eclipse<br/>✅ Qualification passed</sub>
     </td>
-    <td align="center" width="33%">
+    <td align="center" valign="top" width="33%">
       <img src="https://raw.githubusercontent.com/Team-ROBIT/.github/main/images/2026_defense.png" alt="Defense Robot Competition 2026" height="320" /><br/>
-      <h4>Defense Robot Competition 2026</h4>
-      <sub>Eclipse · 🥇 1st place</sub>
+      <h4>Defense Competition 2026</h4>
+      <sub>Eclipse<br/>🥇 1st place</sub>
     </td>
-    <td align="center" width="33%">
+    <td align="center" valign="top" width="33%">
       <a href="https://team-robit.github.io/irc-mani-web/"><img src="https://raw.githubusercontent.com/Team-ROBIT/.github/main/images/2026_safelab_card.png" alt="SAFE LAB" height="320" /></a><br/>
       <h4>SAFE LAB</h4>
-      <sub>🥈 2nd place · Intelligent Robot Competition 2026 (Manipulator)<br/>Self-built 7-DOF manipulator</sub>
+      <sub>Intelligent Robot Competition 2026<br/>🥈 2nd place · Manipulator</sub>
     </td>
   </tr>
 </table>
