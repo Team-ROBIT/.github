@@ -39,7 +39,7 @@
       <sub>Eclipse · 🥇 1st place</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://team-robit.github.io/irc-mani-web/"><img src="https://raw.githubusercontent.com/Team-ROBIT/.github/main/images/2026_safelab_card.jpg" alt="SAFE LAB" height="320" /></a><br/>
+      <a href="https://team-robit.github.io/irc-mani-web/"><img src="https://raw.githubusercontent.com/Team-ROBIT/.github/main/images/2026_safelab_card.png" alt="SAFE LAB" height="320" /></a><br/>
       <h4>SAFE LAB</h4>
       <sub>🥈 2nd place · Intelligent Robot Competition 2026 (Manipulator)<br/>Self-built 7-DOF manipulator</sub>
     </td>
