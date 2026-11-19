@@ -187,7 +187,7 @@ Every year's robot builds on the last one.
   <tr>
     <td align="center" width="16%"><a href="https://github.com/beomsuchoi"><img src="https://github.com/beomsuchoi.png?size=100" width="80"/><br/><b>Beom Su Choi</b></a><br/><sub>19th · 2026 Team Leader<br/>Software</sub></td>
     <td align="center" width="16%"><a href="https://github.com/jammay123"><img src="https://github.com/jammay123.png?size=100" width="80"/><br/><b>Jae Min Ha</b></a><br/><sub>19th<br/>Software</sub></td>
-    <td align="center" width="16%"><a href="https://github.com/kinesis19"><img src="https://github.com/kinesis19.png?size=100" width="80"/><br/><b>Ki Hong Park</b></a><br/><sub>19th<br/>Circuit design</sub></td>
+    <td align="center" width="16%"><a href="https://github.com/kinesis19"><img src="https://github.com/kinesis19.png?size=100" width="80"/><br/><b>Ki Hong Park</b></a><br/><sub>19th<br/>Embedded System</sub></td>
     <td align="center" width="16%"><a href="https://github.com/kmj060703"><img src="https://github.com/kmj060703.png?size=100" width="80"/><br/><b>Min Jo Kim</b></a><br/><sub>20th<br/>Software</sub></td>
     <td align="center" width="16%"><a href="https://github.com/mikissm"><img src="https://github.com/mikissm.png?size=100" width="80"/><br/><b>Soo Min Song</b></a><br/><sub>20th<br/>Software</sub></td>
     <td align="center" width="16%"><a href="https://github.com/JeongyoonWoo7"><img src="https://github.com/JeongyoonWoo7.png?size=100" width="80"/><br/><b>Jeong Yoon Woo</b></a><br/><sub>20th<br/>Circuit design</sub></td>
